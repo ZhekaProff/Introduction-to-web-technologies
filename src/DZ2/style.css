@@ -1,0 +1,36 @@
+/* CSS стили */
+body {
+    background-color: #F5F5F5;
+    font-family: Arial, sans-serif;
+   }
+   h1 {
+    color: #333333;
+    text-align: center;
+    margin-top: 30px;
+   }
+   h2 {
+    color: #333333;
+    margin-top: 20px;
+   }
+   p {
+    color: #666666;
+    line-height: 1.5;
+   }
+   ol {
+    color: #333333;
+    line-height: 1.5;
+   }
+   ul {
+    color: #333333;
+    line-height: 1.5;
+   }
+   a {
+    color: #007FFF;
+    text-decoration: none;
+   }
+   img {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   }
